@@ -1,0 +1,6 @@
+framework module Pods_StateDataManagementCodigoCodeTest {
+  umbrella header "Pods-StateDataManagementCodigoCodeTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
